@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include<tcp_server.h>
 #include<tcp_client.h>
-
+//
 int main(int argc, char *argv[])
 {
 	QCoreApplication a(argc, argv);
